@@ -85,14 +85,12 @@ strong {
     background-color: #3e3e3e;
     display: inline-flex;
     justify-content: center;
-    align-items: center;
-    position: center;
+    align-items: normal;
     margin: 20px;
     height: 300px;
     width: 300px;
     text-align: center;
     font-size: 35px;
-    text-decoration: none;
     border-radius: 15px;
     box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
 }
