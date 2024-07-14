@@ -20,7 +20,7 @@ a:active {
 }
 
 body {
-    Background-color: #B8B8B8;
+    Background-color: #3F3F3F;
 }
 
 h1 {
@@ -65,12 +65,12 @@ strong {
 
 #rboxindex {
     border: 2px solid #515151;
-    background-color: #767676;
+    background-color: #565656;
     border-radius: 15px;
     padding: 10px;
     margin: 10px;
     width: auto;
-    height: auto;
+    height: 100%;
     box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
 }
 
@@ -93,6 +93,7 @@ strong {
     font-size: 35px;
     border-radius: 15px;
     box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
+    text-shadow: 5px 5px 0 rgb(0, 0, 0, 0.2);
 }
 
 .recipecard a {
